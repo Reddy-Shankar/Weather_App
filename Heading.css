@@ -1,0 +1,16 @@
+body{
+    background-color: #c7c5c5cb;
+}
+.heading{
+    text-align: center;
+    font-size: 2rem;    /* That means the text will be 48px tall, unless you’ve changed the root <html> font size. */
+    margin-bottom: 2rem;
+    align-content: center;
+    background-color: #005f75;
+    color:#ffff;
+    height: 50px;
+    padding: 7px;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
